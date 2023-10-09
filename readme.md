@@ -1,2 +1,2 @@
 # Demo
-sampe text demo 123
+sample text demo 123
